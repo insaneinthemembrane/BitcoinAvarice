@@ -13,6 +13,9 @@ extreme greed for wealth or material gain. "he was rich beyond the dreams of ava
 "he had a reputation for ruthlessness and avarice"
 
 
+![Avarice](https://cdn.pbrd.co/images/H2MviAo.png)
+
+
 # Bitcoin Avarice Specifications
 
 
