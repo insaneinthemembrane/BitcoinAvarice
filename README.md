@@ -16,12 +16,17 @@ extreme greed for wealth or material gain. "he was rich beyond the dreams of ava
 # Bitcoin Avarice Specifications
 
 
-    Algo: sha256d Hybrid  
-    Name: BitcoinAvarice  
-    Ticker: BTCAV   
-    RPC: 8865  
-    P2P: 8864   
-    Block Spacing: 6 minutes
+Item        |  Specification     |     
+ --------  |  --------   
+Algo         |  sha256d Hybrid   | 
+Name      |  BitcoinAvarice    | 
+Ticker       |  BTCAV    |
+RPC       |  8865  | 
+P2P       |  8864    |
+Block Spacing       |  6 minutes    |
+Mining Confirmations       |  15    |
+Staking       |  1 minute minimum/no maximum    |
+
 
 
 # BitcoinAvarice.conf
@@ -48,7 +53,7 @@ Blocks (up to)        |  Reward     |
 10,000       |  100  | 
 **11,000**       |  **500**    | 
 20,000       |  150     |
-**21,000**       |  600    | 
+**21,000**       |  **600**    | 
 30,000       |  200    | 
 **31,000**       |  **700**    | 
 999,999       |  2       |
