@@ -23,7 +23,7 @@ extreme greed for wealth or material gain. "he was rich beyond the dreams of ava
 -----
 
 
-# Download BitcoinAvarice-qt at Bitbucket
+**Download BitcoinAvarice-qt at Bitbucket**
 
 
 
