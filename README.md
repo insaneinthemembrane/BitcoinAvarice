@@ -13,7 +13,14 @@ extreme greed for wealth or material gain. "he was rich beyond the dreams of ava
 "he had a reputation for ruthlessness and avarice"
 
 
+-----
+
+
 ![Avarice](https://cdn.pbrd.co/images/H2MviAo.png)
+
+
+
+-----
 
 
 # Bitcoin Avarice Specifications
@@ -41,6 +48,12 @@ Staking       |  1 minute minimum/no maximum    |
     server=1 
     rpcport=8865 
     port=8864
+    
+    
+    
+    
+    
+-----
 
 
 # Rewards POW
@@ -48,6 +61,7 @@ Staking       |  1 minute minimum/no maximum    |
 
 > **Avarice blocks marked in bold**
 > **Total is in POW, it is impossible to include POS mined blocks**
+
 
 Blocks (up to)        |  Reward     |     
  --------  |  --------   
@@ -85,6 +99,9 @@ In addition to my premine, I have up to 2,000,000 BTCAV for sale.
 To pre-empt accusations of a big premine, this called the the "Bitcoin Avarice Exchange Fund."
 
 
+-----
+
+
 # Bitcoin Avarice Exchange Fund (well, ICO in loose terms)
 
 
@@ -106,10 +123,13 @@ As such, it would be sensible to seek a good exchange at a price that is not lau
 Assuming nobody wants to buy BTCAV after 3 months, all of the Exchange funde (or remainder of it) will be destroyed. I have already prepared a Base58  working Burn Address:
 
 
-[1BitcoinAvariceBurnAddressXXSX2vFZ](http://0-5.info/address/1BitcoinAvariceBurnAddressXXSX2vFZ:3001)
+[1BitcoinAvariceBurnAddressXXSX2vFZ](http://0-5.info:3001/address/1BitcoinAvariceBurnAddressXXSX2vFZ)
 
 
 This uses a Python, and a Base58 and Base58Check implementation to generate the burn address. There is no private key for the address, so coins deposited will never leave it.
+
+
+-----
 
 
 
