@@ -74,6 +74,44 @@ Total       |   8,190,000      |
 > - maximun staking: unlimited
 
 
+------
+
+# Premine
+
+- 1,000,000 BTCAV
+
+In addition to my premine, I have up to 2,000,000 BTCAV for sale. 
+
+To pre-empt accusations of a big premine, this called the the "Bitcoin Avarice Exchange Fund."
+
+
+# Bitcoin Avarice Exchange Fund (well, ICO in loose terms)
+
+
+**In simple terms, this is to use to pay to get it listed at an exchange with reasonably trade volume.**
+
+>- The price is 0.50 BTC for 500,000. 
+>- The price for 2,000,000 is negotiable.
+
+
+Unfortunately the days of getting listings with a 0.10 BTC Addcoin or 250 Nova Points are behind us.
+
+Furthermore, BTC is not $300, $500, $1500, $5000, $10000, $12000 any more. The fees for exchanges have gone up, just as bitcoin has. To be dramatic, Livecoin (livecoin.net), which is hardly "busy" charges 5 BTC for a listing! So, erm, 5 x 14000 = $70,000. WTF?
+As such, it would be sensible to seek a good exchange at a price that is not laughable (e.g. not livecoin.net or cryptopia.co.nz). [CoinsExchange](https://www.coinexchange.io/) charges from 1 BTC, although that price would have to be reconfirmed with the exchange.
+
+
+## Unsold BTCAV will be destroyed
+
+
+Assuming nobody wants to buy BTCAV after 3 months, all of the Exchange funde (or remainder of it) will be destroyed. I have already prepared a Base58  working Burn Address:
+
+
+[1BitcoinAvariceBurnAddressXXSX2vFZ](http://0-5.info/address/1BitcoinAvariceBurnAddressXXSX2vFZ:3001)
+
+
+This uses a Python, and a Base58 and Base58Check implementation to generate the burn address. There is no private key for the address, so coins deposited will never leave it.
+
+
 
 ## He has Avarice
 
