@@ -153,9 +153,6 @@ This uses a Python, and a Base58 and Base58Check implementation to generate the 
 
 -----
 
-## Blockexplorer
-
-[0-5.info](http://0-5.info:3001)
 
 
 
